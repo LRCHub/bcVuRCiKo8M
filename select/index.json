@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Anata Watashi",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2026-02-16T14:57:12.904595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "anata watashi daita ato yome no meshi",
+      "artist": "おとぼけビ〜バ〜",
+      "has_synced": false,
+      "path": "select/01_anata_watashi_daita_ato_yome_no_meshi_おとぼけビ〜バ〜.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "anata watashi daita ato yome no meshi",
+      "artist": "Otoboke Beaver",
+      "has_synced": false,
+      "path": "select/02_anata_watashi_daita_ato_yome_no_meshi_Otoboke_Beaver.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anata watashi daita ato yome no meshi",
+      "artist": "Otoboke Beaver",
+      "has_synced": false,
+      "path": "select/03_Anata_watashi_daita_ato_yome_no_meshi_Otoboke_Beaver.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anata Watashi",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_Anata_Watashi_Jinmenusagi.txt"
+    }
+  ]
+}
